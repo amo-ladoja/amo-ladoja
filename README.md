@@ -11,6 +11,7 @@ Jira, Confluence, Microsoft 365, Figma, Trello, Tableau, Power BI, Github, Asana
 SQL, Python, JavaScript, R, PHP
 
 ### 🤝 Let's Connect
+- [Portfolio](https://linkedin.com/in/olatundemoj)
 - [LinkedIn](https://linkedin.com/in/olatundemoj)
 - [Twitter](https://x.com/timilehxn)
 - [UI Exploration](https://dribbble.com/amo-ladoja)
