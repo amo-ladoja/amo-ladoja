@@ -1,4 +1,4 @@
-## Product & Program Manager <br>
+## Technical Product & Program Manager <br>
 
 ### 📐 Skills:
 
